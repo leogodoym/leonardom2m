@@ -8,7 +8,7 @@ const char* WIFI_SSID  = "Convidado iot";      // ALTERE AQUI
 const char* WIFI_SENHA = "mescla@1417";     // ALTERE AQUI
 const char* IP_PROXIMO = "192.168.1.178";     // ALTERE AQUI (IP do próximo aluno)
 // =================================================================
-
+// ALTERADO VIA AWS - ATIVIDADE M2M //
 const unsigned long ESPERA_MS = 2000;  // 2 segundos antes de repassar
 
 ESP8266WebServer server(80);
